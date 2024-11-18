@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am Dyo who is currently working in Information Technology as an SEO & Web Developer. <br>
-Looking for more experience and knowledge.<br> 
-I am very happy growing up and building my career.<br>
+Hi, I’m DyoRizqal, a ordinary web developer in Laravel. I have extensive experience building secure, scalable, and efficient web applications tailored to meet business needs. From back-end development to API integrations, I deliver clean and maintainable code for modern web solutions.<br>
+
+I’m open to remote work opportunities and collaborations with teams or individuals passionate about creating high-quality applications. If you’re looking for a reliable Laravel developer, let’s connect and build something great together.
 <br>
 ### Tech Stack
   <a href="#"><img align="left" alt="php" title="PHP" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" /></a>
